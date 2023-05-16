@@ -330,6 +330,11 @@ textarea{
    justify-content: center;
    align-items: center;
 }
+.centerB{
+   display: flex;
+   justify-content: center;
+   
+}
 .form{
-   padding: 20px;
+   padding: 40px;
 }
